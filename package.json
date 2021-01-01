@@ -1,0 +1,24 @@
+{
+  "name": "shitpostify",
+  "version": "1.0.0",
+  "description": "Turn text into a randomized EMOJi🚉lAdEn♂️cOpYpasTA💰sHiTpoSt!",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atlc/shitpostify-npm"
+  },
+  "keywords": [
+    "emoji",
+    "shitpost"
+  ],
+  "author": "https://github.com/atlc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlc/shitpostify-npm/issues"
+  },
+  "homepage": "https://github.com/atlc/shitpostify-npm#readme"
+}
