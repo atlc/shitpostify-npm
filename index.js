@@ -18,10 +18,4 @@ const shitpostify = (text) => {
     })
 }
 
-(async () => {
-    const sp = await shitpostify("Hey dude, if you don't stop turning my comments into emojis, I'm gonna smash your laptop");
-
-    console.log(sp);
-})()
-
 module.exports = shitpostify;
