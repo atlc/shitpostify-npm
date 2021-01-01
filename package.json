@@ -1,6 +1,6 @@
 {
   "name": "shitpostify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn text into a randomized EMOJi🚉lAdEn♂️cOpYpasTA💰sHiTpoSt!",
   "main": "index.js",
   "typings": "index.d.ts",
